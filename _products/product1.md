@@ -1,7 +1,7 @@
 ---
-identifier: jekyll-starry-night
-name: Starry Night
-price: 79.95
-image: /assets/images/starry-night.jpg
+identifier: jekyll-the-nightmare
+name: The Nightmare
+price: 15.69
+image: /assets/images/nightmare.jpg
 ---
-This is a high-quality replica of The Starry Night by the Dutch post-impressionist painter Vincent van Gogh. Using brand new techniques such as magneto-reluctance and capacitive diractance we were able to reproduce the original colours with a 99.99% accuracy.
+Put this nightmare up above your bed to protect you from other nightmares. All for the low, low cost of $15.69! 

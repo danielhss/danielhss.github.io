@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title:           
+title: online.art
 email: daniel.hollier.smith@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Yes, we sell 3D models of blenders.

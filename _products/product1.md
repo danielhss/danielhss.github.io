@@ -5,4 +5,4 @@ price: 15.69
 image: /assets/images/nightmare.jpg
 height: 400
 ---
-Put this nightmare up above your bed to protect you from other nightmares. All for the low, low cost of $15.69! 
+This piece is an original and hand drawn. The artwork is drawn in charcoal, and was inspired by the corner of darkness in everyone's mind. The artwork is done on an A4 size paper. Shipping will vary depending on where you are located.  

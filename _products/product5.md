@@ -1,5 +1,5 @@
 ---
-identifier: jekyll-watercolour-owl
+identifier: jekyll-watercolour-owl3
 name: Owl
 price: 20.00
 image: /assets/images/owl3.jpg

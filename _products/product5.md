@@ -1,6 +1,6 @@
 ---
 identifier: jekyll-watercolour-owl3
-name: Owl
+name: Owl - Black and white
 price: 20.00
 image: /assets/images/owl3.jpg
 height: 400

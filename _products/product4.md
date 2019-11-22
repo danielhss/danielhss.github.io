@@ -1,6 +1,6 @@
 ---
 identifier: jekyll-watercolour-owl2
-name: Owl
+name: Owl Scheme: Green, Yellow, Red, Blue
 price: 20.00
 image: /assets/images/owl2.jpg
 height: 400

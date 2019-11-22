@@ -1,6 +1,6 @@
 ---
 identifier: jekyll-watercolour-owl
-name: Owl
+name: Owl Blue, Yellow Green
 price: 20.00
 image: /assets/images/owl.jpg
 height: 400

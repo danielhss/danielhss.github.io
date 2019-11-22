@@ -1,7 +1,7 @@
 ---
 identifier: jekyll-the-nightmare
 name: The Nightmare
-price: 15.69
+price: 15.00
 image: /assets/images/nightmare.jpg
 height: 400
 ---

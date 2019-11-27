@@ -1,9 +1,10 @@
 ---
-identifier: jekyll-watercolour-owl
-name: Owl
-price: 20.00
-image: /assets/images/owl.jpg
+identifier: jekyll-Constructed Reality
+name: Constructed Reality
+price: 30.00
+image: /assets/images/Constructed Reality
 height: 400
 ---
-This piece is one of four variants of the drypoint etch ‘Owl’. The pieces are done as drypoint etchings, and added watercolour to add flair. The set can be purchased as a bundle and would look amazing all framed together! This option can be negotiated with me over email. Shipping will vary depending on where you are located.
+This piece was inspired by the movies "The Truman Show" and "The Matrix". The piece focuses on the themes of a controlled and constructed reality. The artwork was spray painted onto an A3 canvas, and hands free drawn. Shipping will vary depending on where you are located
+
 

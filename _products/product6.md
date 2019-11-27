@@ -1,9 +1,9 @@
 ---
-identifier: jekyll-watercolour-owl
-name: Owl
-price: 20.00
-image: /assets/images/owl.jpg
+identifier: jekyll-Joker
+name: Joker
+price: 50.00
+image: /assets/images/IMG_1504.jpg
 height: 400
 ---
-This piece is one of four variants of the drypoint etch ‘Owl’. The pieces are done as drypoint etchings, and added watercolour to add flair. The set can be purchased as a bundle and would look amazing all framed together! This option can be negotiated with me over email. Shipping will vary depending on where you are located.
+This is an original portrait of Heath Ledger as “The Joker”. Inspired by his wild and multi-faced personalities. Over 15 hours of stencil making went into the finished product. The artwork was spray painted on an a3 canvas. Shipping will vary depending on where you are located.
 
